@@ -1,0 +1,1007 @@
+Unity Editor version:    2021.3.5f1 (40eb3a945986)
+Branch:                  2021.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 12.4 (Build 21F79)
+Darwin version:          21.5.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        4096 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2021.3.5f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/metago/Desktop/ARColorUP 2
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55125
+Successfully changed project path to: /Users/metago/Desktop/ARColorUP 2
+/Users/metago/Desktop/ARColorUP 2
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 165.07 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 4.41 ms.
+Initialize engine version: 2021.3.5f1 (40eb3a945986)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2021.3.5f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/metago/Desktop/ARColorUP 2/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Color LCD preferred device: Intel(R) Iris(TM) Graphics 6000 (low power)
+Metal devices available: 1
+0: Intel(R) Iris(TM) Graphics 6000 (low power)
+Using device Intel(R) Iris(TM) Graphics 6000 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Graphics 6000
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2021.3.5f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2021.3.5f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/2021.3.5f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56926
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2021.3.5f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2021.3.5f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2021.3.5f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2021.3.5f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2021.3.5f1/PlaybackEngines/AppleTVSupport/UnityEditor.AppleTV.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2021.3.5f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2021.3.5f1/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.008820 seconds.
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+[usbmuxd] Send listen message
+[usbmuxd] Attached: 69 984fb5eea5f742750ff5401a67457ecc61e479ae
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 76.18 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 1.93 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.436 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1437ms)
+		BeginReloadAssembly (185ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (995ms)
+			LoadAssemblies (192ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (260ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (62ms)
+			SetupLoadedEditorAssemblies (572ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (220ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (78ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (177ms)
+				ProcessInitializeOnLoadMethodAttributes (93ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.011242 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.70 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 1.60 ms.
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetVuforiaPackageAbsPath () [0x0004a] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.IsPackageManager () [0x00000] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.ResolvePluginType () [0x00009] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetPluginType () [0x0000c] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+  at Vuforia.EditorClasses.VuforiaUtilities.IsVuforiaEnabledInPlayerSettings () [0x00000] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+  at VuforiaEnabledObserver..cctor () [0x00000] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:130)
+
+(Filename: /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs Line: 130)
+
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetVuforiaPackageAbsPath () [0x0004a] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.IsPackageManager () [0x00000] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.ResolvePluginType () [0x00009] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetPluginType () [0x0000c] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+  at Vuforia.EditorClasses.VuforiaUtilities.IsVuforiaEnabledInPlayerSettings () [0x00000] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+  at Vuforia.EditorClasses.InitializeOnLoadVuforiaTaskRunner..cctor () [0x00015] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:130)
+
+(Filename: /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs Line: 130)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.633 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2635ms)
+		BeginReloadAssembly (297ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (149ms)
+		EndReloadAssembly (2121ms)
+			LoadAssemblies (174ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (416ms)
+			ReleaseScriptCaches (6ms)
+			RebuildScriptCaches (120ms)
+			SetupLoadedEditorAssemblies (1323ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (52ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (100ms)
+				ProcessInitializeOnLoadAttributes (917ms)
+				ProcessInitializeOnLoadMethodAttributes (246ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'PointClouds/PointSplat': fallback shader 'PointClouds/PointSplatLegacy' not found
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'PointClouds/PointSplat': fallback shader 'PointClouds/PointSplatLegacy' not found
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Launching external process: /Applications/Unity/Hub/Editor/2021.3.5f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.10 seconds
+Refreshing native plugins compatible for Editor in 1.87 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 2.01 ms.
+Unloading 2445 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 95 unused Assets / (60.2 KB). Loaded Objects now: 3131.
+Memory consumption went from 204.3 MB to 204.2 MB.
+Total: 10.725280 ms (FindLiveObjects: 0.300805 ms CreateObjectMapping: 0.125378 ms MarkObjects: 10.035916 ms  DeleteObjects: 0.261476 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 222742.595351 seconds.
+  path: Assets/2019010502.png
+  artifactKey: Guid(09508291bdd88418ea25200dc2bff64f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2019010502.png using Guid(09508291bdd88418ea25200dc2bff64f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '813151e746d9a4da9367e80bcd042091') in 0.526136 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/frog_UV.obj
+  artifactKey: Guid(70c5b185f3e944b568b9d8b33071c9d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/frog_UV.obj using Guid(70c5b185f3e944b568b9d8b33071c9d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fa1b1663c399edfa0258a6b17afd0f9') in 2.697609 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/512E.png
+  artifactKey: Guid(736fd42950505461d9ac7500f386a749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/512E.png using Guid(736fd42950505461d9ac7500f386a749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49e98588841a5fa769e0e69cfe484b72') in 0.059632 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000571 seconds.
+  path: Assets/2019010501.png
+  artifactKey: Guid(44456de0a3b334700adc34c9096a230a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2019010501.png using Guid(44456de0a3b334700adc34c9096a230a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39c44a8050f7d7871d0232fca717f541') in 0.187585 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/logo2.png
+  artifactKey: Guid(03f7c837e04f5411f875ad3de7ae85ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/logo2.png using Guid(03f7c837e04f5411f875ad3de7ae85ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '153e1ac4dbc4bdcfbf70cc8ac15ac049') in 0.030519 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001184 seconds.
+  path: Assets/Glowworm_UV.obj
+  artifactKey: Guid(da97499ef2bd6414f8788dfa109ec3b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Glowworm_UV.obj using Guid(da97499ef2bd6414f8788dfa109ec3b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd68df42ef089f68a46f3ba97fb8745a5') in 0.095975 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.056440 seconds.
+  path: Assets/2019010503.png
+  artifactKey: Guid(267feb0f54d8a49ce82e67d72695cb11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2019010503.png using Guid(267feb0f54d8a49ce82e67d72695cb11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7de2d1a9359a8eab3772bf47cdcd5558') in 0.185148 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/loading.png
+  artifactKey: Guid(c7a4f7fc71e65484c99e8d9dff7e1432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/loading.png using Guid(c7a4f7fc71e65484c99e8d9dff7e1432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '512098ca88e469b8136bce976e31976c') in 0.347880 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/download.png
+  artifactKey: Guid(b8277716991c043f88ad0d1795ed6d15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/download.png using Guid(b8277716991c043f88ad0d1795ed6d15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b84e74732ced5babb2284de2412896e') in 0.088235 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/logo.png
+  artifactKey: Guid(ca1f7f6025d1b49e58d7dec9d5794032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/logo.png using Guid(ca1f7f6025d1b49e58d7dec9d5794032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '618bd7c0bba621da2549448ef71d3b23') in 0.118657 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/512C.png
+  artifactKey: Guid(9cf7ca147572d44dda17b024ec40b35a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/512C.png using Guid(9cf7ca147572d44dda17b024ec40b35a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3b3c99c2025746ecf232be4ec62e6c2') in 0.021730 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/2019010505.png
+  artifactKey: Guid(98b62bf25271443999748fe9dc789d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2019010505.png using Guid(98b62bf25271443999748fe9dc789d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d0155cb37c685a7de13523e7adf9636') in 0.153318 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/insect_UV.obj
+  artifactKey: Guid(dcaf332dee7d44c5398b9e88bf7b8cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/insect_UV.obj using Guid(dcaf332dee7d44c5398b9e88bf7b8cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85aaa991a2fc3b659229025031d62c3d') in 0.054069 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/frog512.png
+  artifactKey: Guid(b86654d70a2554c40bd6a231ae2ee8ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/frog512.png using Guid(b86654d70a2554c40bd6a231ae2ee8ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14941c2fa0fa83e1c7d495bd686d67fa') in 0.024273 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/2019010504.png
+  artifactKey: Guid(51fe99f2924ae43408d3e572baaeaac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2019010504.png using Guid(51fe99f2924ae43408d3e572baaeaac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fea8ebb317b295a6e1c4af2074662906') in 0.146377 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/512D.png
+  artifactKey: Guid(eebd494ce42f84ee39c6183564490b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/512D.png using Guid(eebd494ce42f84ee39c6183564490b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bf1dfdea1f36b631de107a04aeab52c') in 0.017746 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/2019010506.png
+  artifactKey: Guid(6565b9cd0b8ff4132904ba5d7c70463c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2019010506.png using Guid(6565b9cd0b8ff4132904ba5d7c70463c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93dcfde4273aa9ba8b7617fde4f6a14e') in 0.108922 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000090 seconds.
+  path: Assets/camera.png
+  artifactKey: Guid(064f40aacbc97459ba68fad5d599e6a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/camera.png using Guid(064f40aacbc97459ba68fad5d599e6a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cfb4f35bd97a31306b36477fde56719') in 0.053341 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Bird_UV.obj
+  artifactKey: Guid(e27aa25e62c6e4e1299f7cb6d40b0c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bird_UV.obj using Guid(e27aa25e62c6e4e1299f7cb6d40b0c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '318d92abb5a1f804346f71060e5d7e41') in 0.078928 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5100.464530 seconds.
+  path: Assets/snail512_2.png
+  artifactKey: Guid(01e6cb46903924abba06ac97e913cbba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/snail512_2.png using Guid(01e6cb46903924abba06ac97e913cbba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bb9b4e5964c3b00d0b41e9a0af94825') in 0.192084 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/snail_UV.obj
+  artifactKey: Guid(71bd39de028dc43b193f70c603eabbd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/snail_UV.obj using Guid(71bd39de028dc43b193f70c603eabbd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ada616d45d03b5387e5df0de314a05d6') in 0.125010 seconds 
+========================================================================
+Received Prepare
+Shader 'PointClouds/PointSplat': fallback shader 'PointClouds/PointSplatLegacy' not found
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'PointClouds/PointSplat': fallback shader 'PointClouds/PointSplatLegacy' not found
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 81.34 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 2.89 ms.
+Unloading 82 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 82 unused Assets / (36.6 KB). Loaded Objects now: 3187.
+Memory consumption went from 169.7 MB to 169.7 MB.
+Total: 73.801189 ms (FindLiveObjects: 1.788871 ms CreateObjectMapping: 0.956664 ms MarkObjects: 70.763625 ms  DeleteObjects: 0.289138 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Shader 'PointClouds/PointSplat': fallback shader 'PointClouds/PointSplatLegacy' not found
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'PointClouds/PointSplat': fallback shader 'PointClouds/PointSplatLegacy' not found
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 24.44 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 2.28 ms.
+Unloading 82 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 82 unused Assets / (36.2 KB). Loaded Objects now: 3187.
+Memory consumption went from 169.7 MB to 169.7 MB.
+Total: 15.330783 ms (FindLiveObjects: 0.422765 ms CreateObjectMapping: 0.400785 ms MarkObjects: 14.410567 ms  DeleteObjects: 0.094225 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 109.307353 seconds.
+  path: Assets/512C.png
+  artifactKey: Guid(9cf7ca147572d44dda17b024ec40b35a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/512C.png using Guid(9cf7ca147572d44dda17b024ec40b35a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1305acfa8772e953793360b112cdded') in 0.083126 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010648 seconds.
+  path: Assets/2019010502.png
+  artifactKey: Guid(09508291bdd88418ea25200dc2bff64f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2019010502.png using Guid(09508291bdd88418ea25200dc2bff64f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65c03a36499c2050ce625093116211d2') in 0.179556 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/logo2.png
+  artifactKey: Guid(03f7c837e04f5411f875ad3de7ae85ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/logo2.png using Guid(03f7c837e04f5411f875ad3de7ae85ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ec55e6956d60583e4dd3acfcb2fd732') in 0.065135 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/512E.png
+  artifactKey: Guid(736fd42950505461d9ac7500f386a749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/512E.png using Guid(736fd42950505461d9ac7500f386a749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '692fce528f8174ab26a69b11cfc36ca1') in 0.031761 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/2019010501.png
+  artifactKey: Guid(44456de0a3b334700adc34c9096a230a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2019010501.png using Guid(44456de0a3b334700adc34c9096a230a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5ef1dcf2b914ed552745ce36ecce05a') in 0.161823 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001586 seconds.
+  path: Assets/2019010503.png
+  artifactKey: Guid(267feb0f54d8a49ce82e67d72695cb11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2019010503.png using Guid(267feb0f54d8a49ce82e67d72695cb11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f76f42c19b40b8fd823a75151ba368a') in 0.159162 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/loading.png
+  artifactKey: Guid(c7a4f7fc71e65484c99e8d9dff7e1432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/loading.png using Guid(c7a4f7fc71e65484c99e8d9dff7e1432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '806cf0b159bff10a568a89aae053365b') in 0.815980 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/download.png
+  artifactKey: Guid(b8277716991c043f88ad0d1795ed6d15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/download.png using Guid(b8277716991c043f88ad0d1795ed6d15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e791cac7ec22bd322d20ec774fdd27ac') in 0.129500 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004984 seconds.
+  path: Assets/logo.png
+  artifactKey: Guid(ca1f7f6025d1b49e58d7dec9d5794032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/logo.png using Guid(ca1f7f6025d1b49e58d7dec9d5794032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '103d9ad4af9d3c31a6807bfb5df4ba74') in 0.395407 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000706 seconds.
+  path: Assets/snail512_2.png
+  artifactKey: Guid(01e6cb46903924abba06ac97e913cbba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/snail512_2.png using Guid(01e6cb46903924abba06ac97e913cbba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a6c7e1ec161096528ce8917630aa2b3') in 0.047055 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/2019010505.png
+  artifactKey: Guid(98b62bf25271443999748fe9dc789d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2019010505.png using Guid(98b62bf25271443999748fe9dc789d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45ad346ec99519e0a168675ea18c2fe9') in 0.577454 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/frog512.png
+  artifactKey: Guid(b86654d70a2554c40bd6a231ae2ee8ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/frog512.png using Guid(b86654d70a2554c40bd6a231ae2ee8ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '842cc72e4079ebb35a068929be6155fb') in 0.039942 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001883 seconds.
+  path: Assets/2019010504.png
+  artifactKey: Guid(51fe99f2924ae43408d3e572baaeaac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2019010504.png using Guid(51fe99f2924ae43408d3e572baaeaac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dfae4af5e3bf82da66cf7c7ec34b46c') in 0.290771 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000091 seconds.
+  path: Assets/512D.png
+  artifactKey: Guid(eebd494ce42f84ee39c6183564490b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/512D.png using Guid(eebd494ce42f84ee39c6183564490b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2989e31be5ee201cb86e6b27ca98a003') in 0.107711 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Assets/2019010506.png
+  artifactKey: Guid(6565b9cd0b8ff4132904ba5d7c70463c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2019010506.png using Guid(6565b9cd0b8ff4132904ba5d7c70463c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cba87a98b1071e47f2239b8bac20e8e1') in 0.336421 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/camera.png
+  artifactKey: Guid(064f40aacbc97459ba68fad5d599e6a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/camera.png using Guid(064f40aacbc97459ba68fad5d599e6a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a523c9f97dd210bf8df24e6d7d7a0d15') in 0.282639 seconds 
+========================================================================
+Received Prepare
+Shader 'PointClouds/PointSplat': fallback shader 'PointClouds/PointSplatLegacy' not found
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'PointClouds/PointSplat': fallback shader 'PointClouds/PointSplatLegacy' not found
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 54.65 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 2.85 ms.
+Unloading 82 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 82 unused Assets / (36.2 KB). Loaded Objects now: 3187.
+Memory consumption went from 169.9 MB to 169.9 MB.
+Total: 56.101586 ms (FindLiveObjects: 1.125458 ms CreateObjectMapping: 0.301180 ms MarkObjects: 54.513820 ms  DeleteObjects: 0.158487 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Shader 'PointClouds/PointSplat': fallback shader 'PointClouds/PointSplatLegacy' not found
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'PointClouds/PointSplat': fallback shader 'PointClouds/PointSplatLegacy' not found
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 19.43 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 2.46 ms.
+Unloading 82 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 82 unused Assets / (36.2 KB). Loaded Objects now: 3187.
+Memory consumption went from 169.9 MB to 169.9 MB.
+Total: 11.163330 ms (FindLiveObjects: 0.417777 ms CreateObjectMapping: 0.315173 ms MarkObjects: 10.323440 ms  DeleteObjects: 0.085171 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 122.020657 seconds.
+  path: Assets/512C.png
+  artifactKey: Guid(9cf7ca147572d44dda17b024ec40b35a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/512C.png using Guid(9cf7ca147572d44dda17b024ec40b35a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8e5b035490f2a38246737397660a2ff') in 0.085055 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/2019010502.png
+  artifactKey: Guid(09508291bdd88418ea25200dc2bff64f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2019010502.png using Guid(09508291bdd88418ea25200dc2bff64f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7f6c608990f683401ba2642b22367f9') in 0.138556 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000104 seconds.
+  path: Assets/logo2.png
+  artifactKey: Guid(03f7c837e04f5411f875ad3de7ae85ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/logo2.png using Guid(03f7c837e04f5411f875ad3de7ae85ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66d1ca521464abdd2724efe24e3dad5d') in 0.039754 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/512E.png
+  artifactKey: Guid(736fd42950505461d9ac7500f386a749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/512E.png using Guid(736fd42950505461d9ac7500f386a749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d613ace9fb93dd9bd643da7ecad3794') in 0.015629 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Assets/2019010501.png
+  artifactKey: Guid(44456de0a3b334700adc34c9096a230a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2019010501.png using Guid(44456de0a3b334700adc34c9096a230a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daa6e8438adaf890f8b1cde13dcdfec8') in 0.162433 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/2019010503.png
+  artifactKey: Guid(267feb0f54d8a49ce82e67d72695cb11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2019010503.png using Guid(267feb0f54d8a49ce82e67d72695cb11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59916e44e60a7c813376310f12b243e5') in 0.127281 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.006639 seconds.
+  path: Assets/loading.png
+  artifactKey: Guid(c7a4f7fc71e65484c99e8d9dff7e1432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/loading.png using Guid(c7a4f7fc71e65484c99e8d9dff7e1432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ef539a33fd4ea9f98209bd708107269') in 0.373059 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/download.png
+  artifactKey: Guid(b8277716991c043f88ad0d1795ed6d15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/download.png using Guid(b8277716991c043f88ad0d1795ed6d15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17b889a2d3ed5dcfe4b970483d073d0b') in 0.097383 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/logo.png
+  artifactKey: Guid(ca1f7f6025d1b49e58d7dec9d5794032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/logo.png using Guid(ca1f7f6025d1b49e58d7dec9d5794032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac98476f4832591e16e20847e7903642') in 0.181365 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/snail512_2.png
+  artifactKey: Guid(01e6cb46903924abba06ac97e913cbba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/snail512_2.png using Guid(01e6cb46903924abba06ac97e913cbba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ba886d66547f24766487f0135804362') in 0.032249 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/2019010505.png
+  artifactKey: Guid(98b62bf25271443999748fe9dc789d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2019010505.png using Guid(98b62bf25271443999748fe9dc789d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd58c4afd672523e7745cf2e6f7039f6f') in 0.168969 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/frog512.png
+  artifactKey: Guid(b86654d70a2554c40bd6a231ae2ee8ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/frog512.png using Guid(b86654d70a2554c40bd6a231ae2ee8ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63dc18e5c9971b98bc64a7bc8df6b100') in 0.037828 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/2019010504.png
+  artifactKey: Guid(51fe99f2924ae43408d3e572baaeaac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2019010504.png using Guid(51fe99f2924ae43408d3e572baaeaac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '000e7219f4fbfe66624406bf338f7561') in 0.176700 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/512D.png
+  artifactKey: Guid(eebd494ce42f84ee39c6183564490b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/512D.png using Guid(eebd494ce42f84ee39c6183564490b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2a4e42940bd5be673d8e37ab07415fd') in 0.036248 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001829 seconds.
+  path: Assets/2019010506.png
+  artifactKey: Guid(6565b9cd0b8ff4132904ba5d7c70463c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2019010506.png using Guid(6565b9cd0b8ff4132904ba5d7c70463c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c3c46e0b74961adf768c5ff33c53c57') in 0.153085 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/camera.png
+  artifactKey: Guid(064f40aacbc97459ba68fad5d599e6a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/camera.png using Guid(064f40aacbc97459ba68fad5d599e6a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '820798af521270bb3f3bfe7b07e6ed5c') in 0.073577 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006870 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.05 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 4.05 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetVuforiaPackageAbsPath () [0x0004a] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.IsPackageManager () [0x00000] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.ResolvePluginType () [0x00009] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetPluginType () [0x0000c] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+  at Vuforia.EditorClasses.VuforiaUtilities.IsVuforiaEnabledInPlayerSettings () [0x00000] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+  at VuforiaEnabledObserver..cctor () [0x00000] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:130)
+
+(Filename: /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs Line: 130)
+
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetVuforiaPackageAbsPath () [0x0004a] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.IsPackageManager () [0x00000] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.ResolvePluginType () [0x00009] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetPluginType () [0x0000c] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+  at Vuforia.EditorClasses.VuforiaUtilities.IsVuforiaEnabledInPlayerSettings () [0x00000] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+  at Vuforia.EditorClasses.InitializeOnLoadVuforiaTaskRunner..cctor () [0x00015] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:130)
+
+(Filename: /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs Line: 130)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  5.027 seconds
+Domain Reload Profiling:
+	ReloadAssembly (5029ms)
+		BeginReloadAssembly (465ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (19ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (217ms)
+		EndReloadAssembly (4336ms)
+			LoadAssemblies (264ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (646ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (268ms)
+			SetupLoadedEditorAssemblies (2879ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (279ms)
+				SetLoadedEditorAssemblies (3ms)
+				RefreshPlugins (6ms)
+				BeforeProcessingInitializeOnLoad (186ms)
+				ProcessInitializeOnLoadAttributes (1913ms)
+				ProcessInitializeOnLoadMethodAttributes (489ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Shader 'PointClouds/PointSplat': fallback shader 'PointClouds/PointSplatLegacy' not found
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'PointClouds/PointSplat': fallback shader 'PointClouds/PointSplatLegacy' not found
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 15.93 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 2.68 ms.
+Unloading 2428 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 82 unused Assets / (36.2 KB). Loaded Objects now: 3190.
+Memory consumption went from 240.1 MB to 240.1 MB.
+Total: 16.008129 ms (FindLiveObjects: 0.419415 ms CreateObjectMapping: 0.417797 ms MarkObjects: 15.028467 ms  DeleteObjects: 0.140063 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004863 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.48 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 1.99 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetVuforiaPackageAbsPath () [0x0004a] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.IsPackageManager () [0x00000] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.ResolvePluginType () [0x00009] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetPluginType () [0x0000c] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+  at Vuforia.EditorClasses.VuforiaUtilities.IsVuforiaEnabledInPlayerSettings () [0x00000] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+  at VuforiaEnabledObserver..cctor () [0x00000] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:130)
+
+(Filename: /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs Line: 130)
+
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetVuforiaPackageAbsPath () [0x0004a] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.IsPackageManager () [0x00000] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.ResolvePluginType () [0x00009] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetPluginType () [0x0000c] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+  at Vuforia.EditorClasses.VuforiaUtilities.IsVuforiaEnabledInPlayerSettings () [0x00000] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+  at Vuforia.EditorClasses.InitializeOnLoadVuforiaTaskRunner..cctor () [0x00015] in <664162e2bf7f40388b13ee61d1693ae2>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:130)
+
+(Filename: /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs Line: 130)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.134 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3136ms)
+		BeginReloadAssembly (228ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (85ms)
+		EndReloadAssembly (2713ms)
+			LoadAssemblies (118ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (477ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (82ms)
+			SetupLoadedEditorAssemblies (1898ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (65ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (4ms)
+				BeforeProcessingInitializeOnLoad (86ms)
+				ProcessInitializeOnLoadAttributes (1238ms)
+				ProcessInitializeOnLoadMethodAttributes (502ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Shader 'PointClouds/PointSplat': fallback shader 'PointClouds/PointSplatLegacy' not found
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'PointClouds/PointSplat': fallback shader 'PointClouds/PointSplatLegacy' not found
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 15.19 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 3.75 ms.
+Unloading 2436 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 82 unused Assets / (36.3 KB). Loaded Objects now: 3202.
+Memory consumption went from 240.9 MB to 240.9 MB.
+Total: 15.376550 ms (FindLiveObjects: 0.374172 ms CreateObjectMapping: 0.272309 ms MarkObjects: 14.599184 ms  DeleteObjects: 0.128946 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 60.054616 seconds.
+  path: Assets/DeGuang/Textures/1-1.png
+  artifactKey: Guid(141429aac27f1c04b906f801946af596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeGuang/Textures/1-1.png using Guid(141429aac27f1c04b906f801946af596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1713f02bf6065bf52e0510570b9ef6e5') in 0.404439 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/DeGuang/Textures/6-1.png
+  artifactKey: Guid(ad25814f1e103ce4190e523c03d05708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeGuang/Textures/6-1.png using Guid(ad25814f1e103ce4190e523c03d05708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b175d98df02b24633ac04dd1afacc6c') in 0.248526 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/DeGuang/Textures/3-1.png
+  artifactKey: Guid(d0b112d9ca50db5448f09b78d2d09cf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeGuang/Textures/3-1.png using Guid(d0b112d9ca50db5448f09b78d2d09cf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df950c8da1998f6604c284ceae909e25') in 0.245555 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/DeGuang/Textures/wanfu app icon.png
+  artifactKey: Guid(ea12d701b8ae93a44b44f43624eec9fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeGuang/Textures/wanfu app icon.png using Guid(ea12d701b8ae93a44b44f43624eec9fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5edb9bbbdf82d399d04fe1bb356bcaf') in 0.183291 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000658 seconds.
+  path: Assets/DeGuang/Textures/2-1_1.png
+  artifactKey: Guid(aadbbc5a2f4e4d44390fc312b4c3b181) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeGuang/Textures/2-1_1.png using Guid(aadbbc5a2f4e4d44390fc312b4c3b181) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f501e8d1660c6ec951e6b682b6becb0e') in 0.190714 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/DeGuang/Textures/tutor bg.png
+  artifactKey: Guid(809e4da62dda2d645abee3b79aa62f3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeGuang/Textures/tutor bg.png using Guid(809e4da62dda2d645abee3b79aa62f3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7737be90da603dec27caa1d7d85ad0d2') in 0.489093 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/DeGuang/Textures/SplashScreen.png
+  artifactKey: Guid(b2c3fb6f66e74c34a83aaf61829fcc14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeGuang/Textures/SplashScreen.png using Guid(b2c3fb6f66e74c34a83aaf61829fcc14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a76865fdf0015367e2bf57f43641e4a4') in 0.517857 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/DeGuang/Textures/2-1.png
+  artifactKey: Guid(21a2b114ccfed054f8df392d21c98c4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeGuang/Textures/2-1.png using Guid(21a2b114ccfed054f8df392d21c98c4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49f8bd281d69e35a143cf520fe183925') in 0.201215 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Assets/DeGuang/Textures/4-1.png
+  artifactKey: Guid(30be398d5c2303d469bd035b9bac3c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DeGuang/Textures/4-1.png using Guid(30be398d5c2303d469bd035b9bac3c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '258e54f53c30539bb884b208af1dadd8') in 0.237671 seconds 
+========================================================================
+Received Prepare
+Shader 'PointClouds/PointSplat': fallback shader 'PointClouds/PointSplatLegacy' not found
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'PointClouds/PointSplat': fallback shader 'PointClouds/PointSplatLegacy' not found
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'PointClouds/PointSplat' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 65.28 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 2.93 ms.
+Unloading 82 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 82 unused Assets / (36.2 KB). Loaded Objects now: 3215.
+Memory consumption went from 194.7 MB to 194.7 MB.
+Total: 84.548125 ms (FindLiveObjects: 1.391076 ms CreateObjectMapping: 0.405879 ms MarkObjects: 82.300923 ms  DeleteObjects: 0.444967 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+[usbmuxd] Detached: 69 984fb5eea5f742750ff5401a67457ecc61e479ae
+[usbmuxd] Attached: 70 984fb5eea5f742750ff5401a67457ecc61e479ae
+[usbmuxd] Detached: 70 984fb5eea5f742750ff5401a67457ecc61e479ae
+[usbmuxd] Attached: 71 984fb5eea5f742750ff5401a67457ecc61e479ae
+[usbmuxd] Detached: 71 984fb5eea5f742750ff5401a67457ecc61e479ae

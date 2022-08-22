@@ -1,0 +1,127 @@
+fileFormatVersion: 2
+guid: 9f9076e3bdab1431990c98bfad4642e8
+timeCreated: 1539457235
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: goggle_buckle
+    100002: goggle_strap
+    100004: goggles_base
+    100006: goggles_nosepeice
+    100008: hat
+    100010: hat_buckle
+    100012: hat_strap
+    100014: //RootNode
+    400000: goggle_buckle
+    400002: goggle_strap
+    400004: goggles_base
+    400006: goggles_nosepeice
+    400008: hat
+    400010: hat_buckle
+    400012: hat_strap
+    400014: //RootNode
+    2100000: lambert1
+    2100002: goggles_glass_mat
+    2300000: goggle_buckle
+    2300002: goggle_strap
+    2300004: goggles_base
+    2300006: goggles_nosepeice
+    2300008: hat
+    2300010: hat_buckle
+    2300012: hat_strap
+    3300000: goggle_buckle
+    3300002: goggle_strap
+    3300004: goggles_base
+    3300006: goggles_nosepeice
+    3300008: hat
+    3300010: hat_buckle
+    3300012: hat_strap
+    4300000: goggles_nosepeice
+    4300002: goggle_strap
+    4300004: goggle_buckle
+    4300006: hat_strap
+    4300008: hat
+    4300010: hat_buckle
+    4300012: goggles_base
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
